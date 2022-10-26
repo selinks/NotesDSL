@@ -1,1 +1,13 @@
 Notes.txt
+
+Wed Oct 26 16:45:08 EEST 2022
+
+NotesDSL<NotesDSL>
+
+NotesDSL<NotesDSL>
+
+NotesDSL is NL subset with added own syntax and semantics, represents NL thinking in NL typed NL notions as NotesDSL operating with NotesDSL notions-types-categories, that contain NL notions.
+
+NotesDSL is initial notion-type-category, that contains NL description of itself.
+
+NotesDSL syntax is regular, NotesDSL semantics is syntactic and represented as runtime of NotesDSL interpreter implementation of NotesDSL.
