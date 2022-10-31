@@ -29,3 +29,22 @@ PhysicalRealityLawSyntacticBehaviour potentially contains everything and is abst
 
 At first, possible to add NotesDSL goal, but it is very abstract, instead, it is better to add information about process of self-extending of NotesDSL.
 
+
+
+
+Mon Oct 31 10:41:45 EET 2022
+
+PhysicalRealityLawSyntacticBehaviour{PhysicalRealityLawSyntacticBehaviour}
+
+
+PhysicalRealityLawSyntacticBehaviour{PhysicalRealityLawSyntacticBehaviour}
+
+What type will be added next?
+
+AbstractInterpreter (abstracting from Myself, but stills to be Personal) is NotesDSL implementation in NL, it's Runtime InitialState has NotesDSL Operations as NotesDSL CLI commands, for example, AbstractInterpreter.init. TODO: Add more description from PL.
+
+GitHubRepositoryNotesDSLProjectApproach<NotesDSL.txt>{InitialState States LastState FinalState} <- Notes.txtRuntime is NotesDSL.txt representation, but we have Self-extendable AbstractInterpreter that writes it's own source code, extend it and interpret itself.
+
+Could not define Metaknowledge, because all information about NotesDSL is already known.
+
+Simply define Set subtype and describe all it's subtypes in Set{Set}.
