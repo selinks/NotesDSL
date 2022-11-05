@@ -55,3 +55,23 @@ GitHubRepositoryNotesDSLProjectApproach<NotesDSL.txt>{InitialState States LastSt
 Could not define Metaknowledge, because all information about NotesDSL is already known.
 
 Simply define Set subtype and describe all it's subtypes in Set{Set}.
+
+
+
+
+Sat Nov 5 08:54:30 EET 2022
+
+v0.0.3.0
+
+PhysicalRealityLawSyntacticBehaviour{PhysicalRealityLawSyntacticBehaviour} <- Metaknowledge{Metaknowledge} <- Set{Set}
+
+
+Metaknowledge{Metaknowledge}
+
+Defined Metaknowledge for models of represented in Notes (NotesDSL.txt) NotesDSL, representation of representation, self-representation of self-representation, self-extending of self-extending.
+
+
+Set{Set}
+
+Set is collection of elements-objects with associations between them, always finite because 7 objects pruning rule. Set behaviour oncludes operations adding and removing. If remove all elements, get empty set, with representation as {} (syntactic separators-delimeters). In set are introduced 7 first elements of 7 subsets, so it is model of PRLSB - Set<AllFiniteSets<>>.
+
