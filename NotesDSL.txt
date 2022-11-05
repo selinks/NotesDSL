@@ -1,6 +1,9 @@
 Notes.txt
 
+
 Wed Oct 26 16:45:08 EEST 2022
+
+v0.0.1.0
 
 NotesDSL<NotesDSL>
 
@@ -18,6 +21,8 @@ NotesDSL syntax is regular, NotesDSL semantics is syntactic and represented as r
 
 Sun Oct 30 17:29:34 EET 2022
 
+v0.0.2.0
+
 PhysicalRealityLawSyntacticBehaviour{PhysicalRealityLawSyntacticBehaviour}
 
 
@@ -33,6 +38,8 @@ At first, possible to add NotesDSL goal, but it is very abstract, instead, it is
 
 
 Mon Oct 31 10:41:45 EET 2022
+
+v0.0.2.1
 
 PhysicalRealityLawSyntacticBehaviour{PhysicalRealityLawSyntacticBehaviour}
 
