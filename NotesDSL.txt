@@ -75,3 +75,21 @@ Set{Set}
 
 Set is collection of elements-objects with associations between them, always finite because 7 objects pruning rule. Set behaviour oncludes operations adding and removing. If remove all elements, get empty set, with representation as {} (syntactic separators-delimeters). In set are introduced 7 first elements of 7 subsets, so it is model of PRLSB - Set<AllFiniteSets<>>.
 
+
+
+
+Sun Nov 6 15:59:30 EET 2022
+
+v0.0.4.0
+
+PRLSB -> Metaknowledge(Model, PRLSB){SetofAllFiniteSets}
+
+
+Metaknowledge{SetofAllFiniteSets}
+
+Metaknowledge(Set, Sequense, SymbolicLink, Abstraction, Type, Class, Category){{Set Element Object Notion Association ...} {Sequence Cause-Consequence State Position Space TimeofElementAdditionSequense ...} {SymbolicLink Relation Function Behaviour (Self-)Operation ...} {Abstraction HighestAbstractionofProcessStatesOperation(WidestNotionofPhysicalReality) Abstracting/Concretising ...} {Type System ...} {Class Hierarchy ...} {Category CategoryTheory ...}}
+
+Metaknowledge with has a parameterisation instantiates compound values of set1-set7.
+
+
+
