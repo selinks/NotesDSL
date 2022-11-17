@@ -111,3 +111,32 @@ Metaknowledge concretisation: ClassofBasicType<Set Notion Class Category> - Clas
 
 
 
+
+Thu Nov 17 15:29:30 EET 2022
+
+v0.0.5.1
+
+Metaknowledge - Perception - Self-Perception
+
+
+Metaknowledge{Metaknowledge}
+
+TODO: Example of RuntimeObject in JavaScriptInterpreter{Node.js}.
+
+
+Perception{Perception}
+
+TODO: Node.js RuntimeObject with built in commands.
+
+
+
+
+
+
+
+
+
+
+
+
+
