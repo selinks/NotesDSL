@@ -101,6 +101,8 @@ v0.0.5.0
 Metaknowledge - Perception - Self-Perception
 
 
+Metaknowledge{Metaknowledge}
+
 Set (empty) contained itself: AbstractSet - TheSameSetContainedItselfConcretised; all is in perception, physical reality have perception of humans being: AbstractPerceptionorPotentialPerception - Self-PerceptionConcretisedorActualPerception, MetaknowledgeandPerception - Self-PerceptionandMetaknowledgeModelofSelf-Perception, Metaknowledge - Perception(PhysicalReality(Myself)) - Self-Perception(PhysicalRealityandMyself(Concisiousness)) - MetaknowledgeModelofMyself; Myself - Concisiousness, Psychics, etc.
 
 Metaknowledge - HighestAbstractionofProcessStatesOperations(WidestNotionofPhysicalRealitywithMyself) - PhysicalRealityLawandSyntacticBehaviour - MetaknowledgeModelofMyself Nature People Society Science Technology etc.
