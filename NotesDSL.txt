@@ -159,6 +159,24 @@ So, PhysicalReality represents / is represented by Myself Perception, in Self-Pe
 
 
 
+Sun Nov 20 17:16:30 EET 2022
+
+v0.0.6.0
+
+Metaknowledge - PSO(PR) - PRLSB - MetaknowledgeModelofMyself
+
+
+MetaknowledgeModelofMyself(AbstractSet){SetofAllFiniteSets}
+
+Consider AbstractSet object, associated with Metaknowledge.
+
+ClassofBasicTypes<ClassofAbstractSetType ClassofAbstractObjectofType> - ClassofAbstractObjectofType(ClassofAbstractSetType) - OperationRepresentationInstantiation - ObjectofTypeofSetorType(Set)
+
+TODO:
+Try to use only Set Type System.
+Metaknowledge(Set, Sequense, SymbolicLink, Abstraction, Type, Class, Category){{Set Element Object Notion Association ...} {Sequence Cause-Consequence State Position Space TimeofElementAdditionSequense ...} {SymbolicLink Relation Function Behaviour (Self-)Operation ...} {Abstraction HighestAbstractionofProcessStatesOperation(WidestNotionofPhysicalReality) Abstracting/Concretising ...} {Type System ...} {Class Hierarchy ...} {Category CategoryTheory ...}}
+Metaknowledge concretisation: ClassofBasicType<Set Notion Class Category> - ClassofBasicObject(ParameterofClassofType) -instantiation-> ObjectofType
+
 
 
 
