@@ -131,6 +131,33 @@ TODO: Node.js RuntimeObject with built in commands.
 
 
 
+Sun Oct 20 16:40:30 EET 2022
+
+v0.0.5.2
+
+Metaknowledge - Perception - Self-Perception
+
+
+Metaknowledge{Metaknowledge}
+
+Thinking in objects and associations.
+
+PhysicalReality as basic type of all objects, interesting representation by Myself in Perception.
+
+PerceptionStatesPercepting(PhysicalReality(Myself)) - Self-Perception(PhysicalRealityandMyselforConsciousnessorPsychicsorPerson).
+
+Consider abstract objects that will be concretised later in subtype objects, process of Abstraction/Concretisation-Typisation is constant in Perception.
+
+PerceptionStatesPercepting(PhysicalReality(Myself)) is abstracted/concrerised-typed as ProcessesStatesOperations(PhysicalReality(Myself)) - PotentialPerception, for all HumanBeings.
+
+Self-Perception(PhysicalRealityandMyselforConsciousnessorPsychicsorPerson) is abstracted/concrerised-typed as PhysicalRealityLawSyntacticBehaviour - ActualPerception, for Myself.
+
+In Self-Perception Metaknowledge is represented as MetaknowledgeModelofMyself.
+
+So, PhysicalReality represents / is represented by Myself Perception, in Self-Perception Metaknowledge, MetaknowledgeModelofMyself, Myself appear.
+
+
+
 
 
 
