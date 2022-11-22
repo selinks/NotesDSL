@@ -180,6 +180,26 @@ Metaknowledge concretisation: ClassofBasicType<Set Notion Class Category> - Clas
 
 
 
+Tue Nov 22 17:01:30 EET 2022
+
+v0.0.6.1
+
+Metaknowledge - PSO(AoPR) - PRLSB - MMoM
+
+
+MMoM(Set) - AllFiniteSets or MMoM(Set){AllFiniteSets}
+
+Set object, associated with MMoM, type of association is aggregation, if Set would appear earlier, type of association would be composition.
+
+Metaknowledge - {ClassofAbstractType<ClassofTypeofSet ClassofTypeofNotion ClassofTypeofClass ClassofTypeofCategory ClassofTypeofProjectNotesDSL ClassofObjectofType> - ClassofObjectofType(ClassofTypeofSet) - association type OperationRepresentationInstantiation - ObjectofTypeofSetorType(Set) - TypeofSetSystem}
+
+TODO:
+Try to use only Set Type System.
+Metaknowledge(Set, Sequense, SymbolicLink, Abstraction, Type, Class, Category){{Set Element Object Notion Association ...} {Sequence Cause-Consequence State Position Space TimeofElementAdditionSequense ...} {SymbolicLink Relation Function Behaviour (Self-)Operation ...} {Abstraction HighestAbstractionofProcessStatesOperation(WidestNotionofPhysicalReality) Abstracting/Concretising ...} {Type System ...} {Class Hierarchy ...} {Category CategoryTheory ...}}
+
+
+
+
 
 
 
