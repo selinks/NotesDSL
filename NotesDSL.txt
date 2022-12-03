@@ -200,6 +200,77 @@ Metaknowledge(Set, Sequense, SymbolicLink, Abstraction, Type, Class, Category){{
 
 
 
+Sat Dec 3 11:34:30 EET 2022
+
+v0.0.7.0
+
+Knowledge - KnowledgeaboutItself
+
+
+Knowledge
+
+ThoughtsandThinking representation in notes (PenandPencil or ComputerFile methods of storing) at levels of Knowledge, Perception, Myself all are with NotesDSL notation at 4 levels: 1) Notions and Subtyping Operation (Relation) System; 2) Objects and Associations Operations (Relations, declarative definition by use cases) System (Operations are Objects, OperationRepresentation{Implementation, Instantiation}); 3) Classes in ClassHierarchy System (TODO: see UML notation); 4) Categories in CategoriesSystem (TODO: see Category Theory). By default, OaA notation of NotesDSL is used, but all 4 notations, perhaps, will be equivalent since NotesDSL v0.1.0.0.
+
+{Knowledge - KnowledgeaboutItself} - {Metaknowledge - Knowledge} - {Metaknowledge - Perception(PhysicalReality(Myself)) - Self-PerceptionwithPhysicalRealityandMyself(Consciousness) - {MetaknowledgeModelofMyself, MyselfFiniteSets}}
+
+Perception(PhysicalReality(Myself)) - OperationRepresentationasPotentialPerception - ProcessesStatesOperations(AbstractionofPhysicalReality)
+S-PwPRaM(C) - ORasActualP - PhysicalRealityLawSyntacticBehaviour(AbstractionofMyself)
+
+M - PSO(AoPR) - PRLSB(AoM) - MMoM, MFS
+M - PSO(AoPR) - PRLSB(AoM) - {MMoM(HasaAggregationorComposition) - MMoMFiniteSets}, MFS
+
+
+
+
+Sat Dec 3 12:22:30 EET 2022
+
+v0.0.7.1
+
+M - PSO(AoPR) - PRLSB(AoM) - {MMoM(Set, Sequense, SymbolicLink, Abstraction, Type, Class, Category) - MMoMFS{
+Set{Set, Element, Object, Notion, Association, ...},
+Sequence{Sequence, Cause-Consequence, State, Position, Space, TimeofElementAdditionSequense, ...},
+SymbolicLink{SymbolicLink, Relation, Function, Operation, Representation, Implementation, Instantion, Behaviour, Self-Operation, ...},
+Abstraction{Abstraction, HighestAbstractionofProcessesStatesOperations(WidestNotionofPhysicalReality), Abstracting/Concretising, ...},
+Type{Type, System, ...},
+Class{Class, Hierarchy, ...},
+Category{Category, CategoryTheory, ...}
+}, MFS
+
+
+MMoMFS
+
+Rule of if 7+-2 objects then pruning is used.
+
+
+
+
+Sat Dec 3 12:44:30 EET 2022
+
+v0.0.8.0
+
+Metaknowledge - {ClassofAbstractType - {ClassofTypeofNotion, ClassofTypeofSet, ClassofTypeofClass, ClassofTypeofCategory, {ClassofTypeObjectofType(ClassofTypeofSet) - OperationRepresentationInstantiation -}}} - ObjectofTypeofSetorType(Set)orTypeofObjectofSet - TypeofObjectofSetSystem
+
+
+M
+
+Up to NotesDSL 3rd level of notation Classes in ClassHierarchy System and, perhaps, runtime representation in PL (JavaScript, Ruby, etc.), {M - TypeofObjectofSet - TypeofObjectofSetSystem} shortened runtime is used: (or M{M, TypeofObjectofSet, TypeofObjectofSetSystem{TypeofObjectofSetSystem, PSO(AoPR), PRLSB(AoM), MMoM(HaAoC){MMoM, MMoMFS}, MFS(MMoMFS){MFS}}}.
+
+
+
+
+Sat Dec 3 13:19:30 EET 2022
+
+v0.0.9.0
+
+M - PSO(AoPR) - PRLSB - {{MMoM(NL, NotesDSL, ProjectApproach, Interpreter) - OperationRepresentation - AbstractMachine(Storage, My(Self-)NotesDSLandNLInterpretertoRuntime, My(Self-)RuntimeInterpretertoStorage, REPL) - OperationRepresentationImplementation - StorageasGitHubRepositoryNotesDSL(NotesDSL.txt)}, MFS}
+
+
+MMoM
+
+TODO: Type infer with new NL values to M - TypeofObjectofSet - PSO(AoPR{AoPR, NL, NotesDSL, ProjectApproach, Interpreter}) - PRLSB(Self-Interpretation) - {MMoM, MFS}
+
+
+
 
 
 
