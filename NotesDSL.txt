@@ -272,7 +272,56 @@ TODO: Type infer with new NL values to M - TypeofObjectofSet - PSO(AoPR{AoPR, NL
 
 
 
+Sun Dec 4 11:45:30 EET 2022
+
+v0.0.10.0
+
+Metaknowledge - OperationRepresentationInstantiation - TypeofObjectofSet - TypeofObjectofSetSystem
 
 
+Metaknowledge
+
+ThinkingofThoughtsorKnowledgeorPerceptionorNotesDSLNotationLevel(Default-ObjectsandAssociations-SetsSystem)orRuntimeorMyselforPersonorPsycheorConsciousness{M - ORIn - ToOoS - ToOoSS}
+
+{M} - {CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS>}
+
+
+ToOoS
+
+{ToOoS} - {ToOoS{AoPR, AoM}}
+
+
+ToOoSS
+
+{ToOoS - ToOoSS} - {ToOoS{{AoPR - BookPLPaP}, {AoM - Self-Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<Self-Interpretation> - {MMoM - ORIm - MMoMFS}, MFS}}
+
+
+
+
+Sun Dec 4 12:15:30 EET 2022
+
+v0.0.11.0
+
+CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS> - ORIn - ToOoS{{AoPR - BookPLPaP}, {AoM - Self-Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<Self-Interpretation> - {MMoM(NotesDSLDefinitionbyImplementationofAM, Interpreter, Storage, Operations) - ORIm - MMoMFS{My(Self-)AM, StorageasNotesDSL.txt, NDSLaNLMS-ItR, RMS-ItNDSL.txt, RuntimeinMyself, My(Self-)OperationsasREPL}}, MFS}
+
+
+TODO: Add NL values for singleton types - symbols.
+
+
+
+
+Sun Dec 4 12:26:30 EET 2022
+
+v0.1.0.0
+
+CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS> - ORIn - ToOoS{{AoPR - BookPLPaP}, {AoM - Self-Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<Self-Interpretation> - {MMoM - ORIm - MMoMFS}, MFS{
+Nature - 1,
+People - 1, 2 - HumanBeing - 3,
+Society - 2,
+{Science - FormalSciences - 4, {HumanitarianSciences - {Linguistics - NL - 5}, Psychology - 3 - PersonorMyself - 6}},
+Technology - Computing - 4 - CS - 5 - PL - DSL - AM(Storage, Interpreter, Operations) - {ORIm - ORPA} - 6 - My(Self-)AM{StorageasNotesDSL.txt, NDSLaNLMS-ItR, RMS-ItNDSL.txt, RuntimeinMyself, My(Self-)OperationsasREPL} - NotesDSL}}
+
+
+TODO: Add NL values for singleton types - symbols.
 
 
