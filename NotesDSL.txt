@@ -302,10 +302,20 @@ Sun Dec 4 12:15:30 EET 2022
 
 v0.0.11.0
 
-CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS> - ORIn - ToOoS{{AoPR - BookPLPaP}, {AoM - My(Self-)Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<My(Self-)Interpretation> - {MMoM(NotesDSLDefinitionbyImplementationofAM, Interpreter, Storage, Operations) - ORImwPA - MMoMFS{My(Self-)AM, StorageasNotesDSL.txt, NDSLaNLM(S-)ItR, RM(S-)ItNDSL.txt, RuntimeinMyself, My(Self-)OperationsasREPL}}, MFS}
+CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS> - ORIn - ToOoS{{AoPR - BookPLPaP}, {AoM - My(Self-)Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<My(Self-)Interpretation> - {MMoM(NotesDSLDefinitionbyImplementationofAM, Interpreter, Storage, Operations) - ORImwPA - MMoMFS{My(Self-)AM{{StorageasNotesDSL.txt - ORImwPA - GitHubRepositoryNotesDSL{README.md, NotesDSL.txt}}, NDSLaNLM(S-)ItR, RM(S-)ItNDSL.txt, RuntimeinMyself, My(Self-)OperationsasREPL}}}, MFS}
 
 
-TODO: Add NL values for singleton types - symbols.
+My(Self-)AM
+
+Implemented by Myself, contained 2 interpreters (to Myself{RuntimeinMyself} and from RuntimewithMyself), runtime object and REPL; only StorageasNotesDSL.txt implemented as GitHub NotesDSL repositories file NotesDSL.txt.
+
+NotesDSL.txt file format, for operation print in REPL, for commits of project approached GitHub repository NotesDSL (learning by doing):
+NotesDSL.txt -> Caption (VersionofRuntime RuntimeinNotesDSLDefaultShortenedNotationOaA-TypeSystemRepresentedasSetSystem Notes)+;
+Caption -> "NotesDSL.txt";
+VersionofRuntime -> vMajor.Minor.NotTypechecked.VersionofNLTV;
+Notes -> (SingletonTypeSymbolicVariableName NLTV)+.
+
+NotesDSLDefinitionbyImplementationofAM defines NotesDSL concise, expressive syntax and self-extendable runtime semantics. TODO: Consider NotesDSL syntax and semantics.
 
 
 
