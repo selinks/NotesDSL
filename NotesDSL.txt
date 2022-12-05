@@ -302,7 +302,7 @@ Sun Dec 4 12:15:30 EET 2022
 
 v0.0.11.0
 
-CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS> - ORIn - ToOoS{{AoPR - BookPLPaP}, {AoM - Self-Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<Self-Interpretation> - {MMoM(NotesDSLDefinitionbyImplementationofAM, Interpreter, Storage, Operations) - ORIm - MMoMFS{My(Self-)AM, StorageasNotesDSL.txt, NDSLaNLMS-ItR, RMS-ItNDSL.txt, RuntimeinMyself, My(Self-)OperationsasREPL}}, MFS}
+CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS> - ORIn - ToOoS{{AoPR - BookPLPaP}, {AoM - My(Self-)Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<My(Self-)Interpretation> - {MMoM(NotesDSLDefinitionbyImplementationofAM, Interpreter, Storage, Operations) - ORImwPA - MMoMFS{My(Self-)AM, StorageasNotesDSL.txt, NDSLaNLM(S-)ItR, RM(S-)ItNDSL.txt, RuntimeinMyself, My(Self-)OperationsasREPL}}, MFS}
 
 
 TODO: Add NL values for singleton types - symbols.
@@ -314,14 +314,24 @@ Sun Dec 4 12:26:30 EET 2022
 
 v0.1.0.0
 
-CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS> - ORIn - ToOoS{{AoPR - BookPLPaP}, {AoM - Self-Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<Self-Interpretation> - {MMoM - ORIm - MMoMFS}, MFS{
+CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS> - ORIn - ToOoS{{AoPR - BookPLPaP}, {AoM - My(Self-)Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<My(Self-)Interpretation> - {MMoM - ORImwPA - MMoMFS}, MFS{
 Nature - 1,
 People - 1, 2 - HumanBeing - 3,
 Society - 2,
 {Science - FormalSciences - 4, {HumanitarianSciences - {Linguistics - NL - 5}, Psychology - 3 - PersonorMyself - 6}},
-Technology - Computing - 4 - CS - 5 - PL - DSL - AM(Storage, Interpreter, Operations) - {ORIm - ORPA} - 6 - My(Self-)AM{StorageasNotesDSL.txt, NDSLaNLMS-ItR, RMS-ItNDSL.txt, RuntimeinMyself, My(Self-)OperationsasREPL} - NotesDSL}}
+Technology - Computing - 4 - CS - 5 - PL - DSL - AM(Storage, Interpreter, Operations) - 6 - ORImwPA - My(Self-)AM{StorageasNotesDSL.txt, NDSLaNLM(S-)ItR, RM(S-)ItNDSL.txt, RuntimeinMyself, My(Self-)OperationsasREPL} - NotesDSL}}
 
 
 TODO: Add NL values for singleton types - symbols.
+
+
+
+
+
+
+
+
+
+
 
 
