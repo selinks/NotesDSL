@@ -309,8 +309,8 @@ My(Self-)AM
 
 Implemented by Myself, contained 2 interpreters (to Myself{RuntimeinMyself} and from RuntimewithMyself), runtime object and REPL; only StorageasNotesDSL.txt implemented as GitHub NotesDSL repositories file NotesDSL.txt.
 
-NotesDSL.txt file format, for operation print in REPL, for commits of project approached GitHub repository NotesDSL (learning by doing):
-NotesDSL.txt -> Caption (VersionofRuntime RuntimeinNotesDSLDefaultShortenedNotationOaA-TypeSystemRepresentedasSetSystem Notes)+;
+NotesDSL.txt file have format of NotesDSL syntax, for operations of REPL, for commits of project approached GitHub repository NotesDSL (learning by doing):
+NotesDSL.txt -> Caption (VersionofRuntime NotesDSLNotationforRuntime(DefaultShortenedNotationOaA-TypeSystemRepresentedasSetSystem) Notes)+;
 Caption -> "NotesDSL.txt";
 VersionofRuntime -> vMajor.Minor.NotTypechecked.VersionofNLTV;
 Notes -> (SingletonTypeSymbolicVariableName NLTV)+.
