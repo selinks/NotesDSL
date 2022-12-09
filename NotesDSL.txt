@@ -281,14 +281,14 @@ Metaknowledge - OperationRepresentationInstantiation - TypeofObjectofSet - Typeo
 
 Metaknowledge
 
-ThinkingofThoughtsorKnowledgeorPerceptionorNotesDSLNotationLevel(Default-ObjectsandAssociations-SetsSystem)orRuntimeorMyselforPersonorPsycheorConsciousness{M - ORIn - ToOoS - ToOoSS}
+ThinkingofThoughtsorKnowledgeorPerceptionorSelf-PerceptionorTaTLevelorNotesDSLDefaultNotationLevelorOaA-SS(for TaT Levels: ATwCat-SubcategoriesSystem, ATwCl(Programming)-ClassHierarchySystem, ATwW(Logic)-FormalLogicSystem, default - OaA-TypeSystem-SetSystemorListSystemorJSONSystemorTextValueTypeSystem, trivial typical thinking - TypedNotionsSystem, for animals -  SymbolicThinking, for subconscious - ImageSequence)orMyselforPersonorPsycheorConsciousnessorRuntimeinMyself(MemoryofConsciousness)orRuntimeDatatypeObjectorMindMaporPaPNotesorNotesDSL.txt{M - ORIn - ToOoS - ToOoSS}
 
-{M} - {CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS>}
+{M} - {CoAT{CoToN, {CoToOaA - CoToS, CoToJSON}, CoToCl, CoToCat} - CoOoT<CoToS>}
 
 
 ToOoS
 
-{ToOoS} - {ToOoS{AoPR, AoM}}
+{ToOoS} - {ToOoS{ToOoSS(ToOoS), AoPR(ToOoS) - AoM - AoMContentEmpty, AoMBehaviour{Natural, Humanic, Social, Syntactic, Scientific, Technological, Educational{ProjectApproached}}, PSO, NL, Law, Behaviour} - ToOoSS(ToOoS){AoPR(ToOoS) - PSO(AoPR){Nature, People, SocialMatherialCulture, NL, ScientificResources, Technologies, ProjectswithEducationalResources, SomeNewResourcesforModelingorTypeInferencing} - PRLSB<AoM> - MMoM, M}}
 
 
 ToOoSS
