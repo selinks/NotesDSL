@@ -324,7 +324,23 @@ Sun Dec 4 12:26:30 EET 2022
 
 v0.1.0.0
 
-CoAT{CoToN, CoToS, CoToCl, CoToCat} - CoOoT<CoToS> - ORIn - ToOoS{{AoPR - BookPLPaP}, {AoM - My(Self-)Interpretation}} - ToOoSS{PSO<BookPLPaP> - PRLSB<My(Self-)Interpretation> - {MMoM - ORImwPA - MMoMFS}, MFS{
+TODO: Describe MwM(S-)I in PaPNwMyself by {{MwC-1} - MemoC - 1-CR - M(S-)I(CR)}, PRwM(asPRL<SB> snapshot of PR).
+
+PaPN(wNode.js)wMyself(inPhysicalRealityofNotionofM(S-)InterpreterwRuntimeasSet){
+
+NLM(S-)IRuntimewithNotionswithBehaviourinPhysicalReality{
+
+SetofTypesinRuntimeasBuiltInbyM(S-)I{
+ToCloAT{{ToCloToN - ToCloToS, ToCloToJSON, ToCloToDOT}, ToCloToCl, ToCloToCat} - ToCloOoT<ToCloToS> - ToBORInstantiatingoToCloOoT - ToCloOoT<ToCloToS>Instance},
+
+SetofTypesfromToCloOoT<ToCloToS>InstanceinRuntimeasDatatypeObjectwRDODescriptionbyMyself{
+
+ToOoS{NL, Law, ProjectApproachtoEducation, NotesDSL.txt, BookPLPaP, {NotSyntacticBehaviour - NotesDSL.txtInitialization}, {SyntacticBehaviour - NotesDSL.txtWriting, BookPLPaPReading, My(Self-)Interpretation}} -AssociationOperationRepresentationasSystem-
+
+ToOoSS(ToOoS){PR(NL, Law, PAtE, NotesDSL.txt, BookPLPaP)<NotesDSL.txtInitialization> - NotesDSL.txtaBookPLPaPwM(asPRLawinNL<SB>)<NotesDSLWriting, BookPLPaPReading, My(Self-)Interpretation> -
+
+{MMoM - ORImwPA - MMoMFS}, MFS{
+
 Nature - 1,
 People - 1, 2 - HumanBeing - 3,
 Society - 2,
@@ -332,7 +348,8 @@ Society - 2,
 Technology - Computing - 4 - CS - 5 - PL - DSL - AM(Storage, Interpreter, Operations) - 6 - ORImwPA - My(Self-)AM{StorageasNotesDSL.txt, NDSLaNLM(S-)ItR, RM(S-)ItNDSL.txt, RuntimeinMyself, My(Self-)OperationsasREPL} - NotesDSL}}
 
 
-TODO: Add NL values for singleton types - symbols.
+TODO:
+Finish RDOwRDOD (add NLTV for singleton types-symbols).
 
 
 
