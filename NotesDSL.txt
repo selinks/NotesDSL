@@ -320,16 +320,27 @@ NotesDSLDefinitionbyImplementationofAM defines NotesDSL concise, expressive synt
 
 
 
-Sun Dec 25 13:03:30 EET 2022
+Sat Dec 31 15:10:30 EET 2022
 
 v0.0.0.0
 
-TODO:
+TaT
+
+
+TaT
+
+Simple thoughts and thinking flushing note, initially untyped because of thoughts and thinking at all levels of abstraction complexity and no place remain in memory for types.
+
+As myself interpreter in memory of consciousness is represented from myself with consciousness by consciousness reflection, myself interpreter is consciousness reflection.
+
+Consciousness reflection is samososredotochenie and samosozertsanie, collection of all current, actual thoughts and thinking about myself as initial image snapshot.
+
+Finally, type annotation is added by typechecking by natural language myself interpreter as widest type of physical reality representation as thinking and thoughts TaT.
 
 
 
 
-Sun Dec 4 12:26:30 EET 2022
+TODO: Date.
 
 v0.1.0.0
 
