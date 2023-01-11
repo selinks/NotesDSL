@@ -340,6 +340,22 @@ Finally, type annotation is added by typechecking by natural language myself int
 
 
 
+Wed Jan 11 13:14:30 EET 2023
+
+v0.0.0.1
+
+TaT
+
+
+TaT
+
+{ThoughtsandThinking} - {ThoughtsandThinking - ThoughtsandThinkingaboutItself} - {ThoughtsandThinkingaboutItself} - {Knowledge} - {Knowledge - KnowledgeaboutRepresentationofItself} - {Metaknowledge - Knowledge}
+
+Consider Universe's {M - K}, which is in Perception. PerceptionofUniverse{Sppace, Time, Matter, Energy, Information, etc.}, Self-PerceptionofUniverse is represented as BioElectricalActivity - TaT in Myself{Consciousness}. NB! TaT - Actions - Behaviour in PhysicalReality as Snapshots. Universe's Self-Perception have partial argument of Universe's Perception: P(PR{M}) - S-P(PRwM{C}). Universe's {M - K} in Universe's Perception: M - PR(BEA) - {MwC-1} - MemoC - {1-CR} - M(S-)I<CR> or M - Type{Set, {Language - Notion}, Law, PAtE, PaPNWriting}, TypeSystem(Type) - PR<PaPNWriting> - PaPNwM - Projects - ProjectPaPN(PAtE){PaPN - PaPNN - PaPNF - PaPNSNfRDO}
+
+
+
+
 TODO: Date.
 
 v0.1.0.0
